@@ -1,9 +1,5 @@
-Perfect 👍 Let’s prep your **ESP8266 Digital Clock with Alarm** project for GitHub.
-Here’s a clean **README.md** draft you can drop into your repo:
-
----
-
 # ESP8266 Digital Clock with MAX7219 Display & Web Alarm
+![WhatsApp Image 2025-09-06 at 12 23 20 AM (1)](https://github.com/user-attachments/assets/f4563f43-1058-4aab-8a9f-432545044cc8)
 
 ## 📌 Project Overview
 
